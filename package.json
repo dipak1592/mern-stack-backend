@@ -2,10 +2,14 @@
   "name": "fullstack-app",
   "version": "1.0.0",
   "description": "full-stack mern stack application",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "javascript"
+    "dev": "nodemon src/index.js"
   },
   "author": "Dipak Dhariyaparmar",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
