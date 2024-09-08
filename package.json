@@ -1,0 +1,11 @@
+{
+  "name": "fullstack-app",
+  "version": "1.0.0",
+  "description": "full-stack mern stack application",
+  "main": "index.js",
+  "scripts": {
+    "test": "javascript"
+  },
+  "author": "Dipak Dhariyaparmar",
+  "license": "ISC"
+}
